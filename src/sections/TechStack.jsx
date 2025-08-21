@@ -1,5 +1,5 @@
 import TitleHearder from "../components/TitleHearder";
-import TechIcon from "../components/Techicon";
+import TechIcon from "../components/TechIcon";
 import { iconsList } from "../constants/index";
 
 const TechStack = () => {
