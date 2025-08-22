@@ -9,7 +9,7 @@ const TechStack = () => {
         <div className="container mx-auto md:p-0 px-5">
           <TitleHearder
             title={"TECH STACK"}
-            number={"03"}
+            number={"02"}
             text={"My Go-To Technologies"}
           />
         </div>

@@ -15,7 +15,7 @@ const Projects = () => {
           <TitleHearder
             title={"My PROJECTS"}
             number={"03"}
-            text={"Check my recent projects below for your Goal"}
+            text={"Check my recent projects below -"}
           />
         </div>
         <div className="md:mt-20 mt-10">

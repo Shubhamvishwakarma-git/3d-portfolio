@@ -12,8 +12,8 @@ const Contact = () => {
         <div className="w-full h-full container md:my-40 my-20">
             <TitleHearder
           title={"Contact Me"}
-          text={"I am a passionate developer."}
-          number={"04"}
+          text={"Looking forward to exciting roles and collaborations — reach out anytime."}
+          number={"05"}
         />
 
         <div className="mt-20">

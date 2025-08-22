@@ -9,7 +9,7 @@ import TitleHearder from "../components/TitleHearder";
 const about = {
   title: "About Me",
   description:
-    "Frontend Developer with 1+ year of experience creating fast, responsive, and accessible web applications using React.js, Next.js, and JavaScript (ES6+). Improved application load times by up to 40%, delivered scalablefeatures in Agile sprints, and enhanced UI/UX through performance tuning and API integration — directly increasing user engagement and business efficiency.",
+    "Frontend Developer with over 1 year of experience building fast, responsive, and accessible web applications using React.js, Next.js, and JavaScript (ES6+). Improved application load times by up to 40%, delivered features in Agile sprints, and optimized UI/UX through performance tuning and API integration directly increasing user engagement and business efficiency.",
   info: [
     { title: "Name", value: "Shubham Kumar Vishwakarma" },
     { title: "Email", value: "shubhamkumarvishwakarma77@gmail.com" },
@@ -24,7 +24,7 @@ const about = {
 const experience = {
   title: "Experience",
   description:
-    "I have worked with some of the top companies in the industry and have gained a lot of experience in the field of web development.",
+     "Frontend Developer with 1+ year of professional experience at a fast-paced product company. Gained hands-on expertise in building fast, responsive, and accessible web applications using React.js, Next.js, and JavaScript (ES6+). Delivered scalable features in Agile sprints, optimized performance (improving load times by up to 40%), and enhanced UI/UX through clean code, API integration, and modern design practices — contributing directly to user satisfaction and business growth.",
   items: [
     {
       title: "Associate Engineer",
@@ -38,7 +38,7 @@ const experience = {
 const education = {
   title: "Education",
   description:
-    "I have completed my education from some of the top universities in the country and have gained a lot of knowledge in the field of computer science.",
+    "I completed my graduation in Bachelor's in Computer Applications from a reputed institution, where I built a strong foundation in software development, data structures, algorithms, and problem-solving — preparing me to apply these concepts in real-world web development projects.",
   items: [
     {
       institute: "Rourkela Institute of Management Studies.",
@@ -52,7 +52,7 @@ const education = {
 const skills = {
   title: "Skills",
   description:
-    "I have gained a lot of skills in the field of web development and have worked with some of the top technologies in the industry.",
+    "Skilled in modern web development with over a year of experience in building scalable and responsive applications. Proficient in React.js, Next.js, JavaScript (ES6+), HTML, CSS, and Tailwind CSS, with additional exposure to Node.js and API integration — enabling me to deliver performant and user-focused solutions.",
   skilllist: [
     { name: "React.js", icon: <FaReact /> },
     { name: "Next.js", icon: <SiNextdotjs /> },
